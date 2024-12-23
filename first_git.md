@@ -65,6 +65,8 @@ Initialized empty Git repository in /Users/mac/Desktop/leams/.git/
 
 ![git日志](https://chuge25-1306445635.cos.ap-guangzhou.myqcloud.com/typroa/git%E6%97%A5%E5%BF%97.jpg?imageSlim)
 
+
+
 ### 查看分支
 
 `git branch`
@@ -75,17 +77,20 @@ Initialized empty Git repository in /Users/mac/Desktop/leams/.git/
 
 ### 切换分支
 
+
 `git checkout master`
 
 ![git主分支切换](https://chuge25-1306445635.cos.ap-guangzhou.myqcloud.com/typroa/git%E4%B8%BB%E5%88%86%E6%94%AF%E5%88%87%E6%8D%A2.jpg?imageSlim)
 
-### 分支合并
+
+### 合并分支
 
 `git merge`
 
 ### 删除分支
 
 `git branch -d 分支名称`
+
 
 ### git基础命令总结
 
@@ -107,9 +112,13 @@ Initialized empty Git repository in /Users/mac/Desktop/leams/.git/
 >
 > git checkout master
 >
+
 > git merge
 >
 > git branch -d 分支名称
+
+> 
+
 
  
 
